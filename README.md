@@ -1,2 +1,2 @@
 # java-clock-
-Analog clocj
+Analog clock
